@@ -1,0 +1,120 @@
+    
+     ----jGRASP exec: java PersonDriver
+    
+    Person :1
+    Student
+    Name:              Jennifer Fleming
+    Social Security: 0763-75-487
+    Age:               40
+    Gender:            Female
+    Address:           790 54th st.
+    Phone:             3093-601-993
+    GPA:               0.11
+    Major:             Computer Science
+    Year of Grad.:     1998
+    
+    Person :2
+    Student
+    Name:              Emily Henry
+    Social Security: 2336-81-821
+    Age:               39
+    Gender:            Female
+    Address:           114 21st st.
+    Phone:             2882-229-520
+    GPA:               0.46
+    Major:             Chemistry
+    Year of Grad.:     1995
+    
+    Person :3
+    Student
+    Name:              Joanne Butler
+    Social Security: 9581-65-526
+    Age:               28
+    Gender:            Female
+    Address:           824 40th st.
+    Phone:             5620-054-316
+    GPA:               3.22
+    Major:             Biology
+    Year of Grad.:     1996
+    
+    Person :4
+    Hourly Employee
+    Name:              Howard Flintoff
+    Social Security: 0147-14-095
+    Age:               54
+    Gender:            Male
+    Address:           893 37th st.
+    Phone:             8224-335-565
+    Department:        Electrical Engineering
+    Title:             Instructor
+    Year Hired:        1948
+    Hourly Rate:       8.0
+    
+    Person :5
+    Hourly Employee
+    Name:              Haley Davidson
+    Social Security: 2755-80-785
+    Age:               19
+    Gender:            Female
+    Address:           324 25th st.
+    Phone:             8620-311-673
+    Department:        Computer Science
+    Title:             Counselor
+    Year Hired:        1951
+    Hourly Rate:       8.0
+    
+    Person :6
+    Hourly Employee
+    Name:              Brittney Henry
+    Social Security: 8680-72-605
+    Age:               49
+    Gender:            Female
+    Address:           695 40th st.
+    Phone:             6137-501-580
+    Department:        Biology
+    Title:             Princial
+    Year Hired:        1984
+    Hourly Rate:       8.0
+    
+    Person :7
+    Salaried Employee
+    Name:              Howard Henry
+    Social Security: 1866-78-139
+    Age:               57
+    Gender:            Male
+    Address:           716 54th st.
+    Phone:             4905-112-968
+    Department:        Computer Science
+    Title:             Dean
+    Year Hired:        1992
+    Pay Level:         57000.0
+    
+    Person :8
+    Salaried Employee
+    Name:              Emily Jackson
+    Social Security: 1739-98-154
+    Age:               27
+    Gender:            Female
+    Address:           451 36th st.
+    Phone:             1278-462-172
+    Department:        Electrical Engineering
+    Title:             Dean
+    Year Hired:        2033
+    Pay Level:         60000.0
+    
+    Person :9
+    Salaried Employee
+    Name:              John Henry
+    Social Security: 1515-27-232
+    Age:               34
+    Gender:            Male
+    Address:           389 11th st.
+    Phone:             0696-669-118
+    Department:        Physics
+    Title:             Princial
+    Year Hired:        2029
+    Pay Level:         29000.0
+    
+    
+     ----jGRASP: operation complete.
+    
